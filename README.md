@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
  <div align=center>
-<https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white>
+(https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 <div/>
 
 - 🔭 I’m currently working on ...
