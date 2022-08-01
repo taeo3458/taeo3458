@@ -24,8 +24,7 @@ Languages Have Used.
 
 
 
-________________________________________________________________________________________
-
+_________________________________________________________________
 Hobby
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=PlayStation&logoColor=white"> <img src="https://img.shields.io/badge/Nintendo Switch-FF0000?style=for-the-badge&logo=Nintendo Switch&logoColor=white"> <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=Netflix&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white">
