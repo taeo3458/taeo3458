@@ -5,7 +5,7 @@
 
 Tech Stack.
 
-<img src="https://img.shields.io/badge/ios-800000?style=for-the-badge&logo=ios&logoColor=white">
+<img src="https://img.shields.io/badge/ios-800000?style=for-the-badge&logo=ios&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> 
 
 
 ________________________________________________________________________________________
