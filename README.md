@@ -24,5 +24,5 @@ ________________________________________________________________________________
 
 hobby
 
-Game 
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=PlayStation&logoColor=white"> <img src="https://img.shields.io/badge/Nintendo Switch-F05138?style=for-the-badge&logo=Nintendo Switch&logoColor=white">
 ________________________________________________________________________________________
