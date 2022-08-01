@@ -25,11 +25,4 @@ Hobby
 * GAME *
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=PlayStation&logoColor=white"> <img src="https://img.shields.io/badge/Nintendo Switch-FF0000?style=for-the-badge&logo=Nintendo Switch&logoColor=white">
 
-* MOVIE *
-
-<i class="swg swg-darthvader"></i> swg-darthvader
-
-
-
-
 ________________________________________________________________________________________
