@@ -18,7 +18,7 @@ IDE
 
 ABOUT ME
 --------
-// Major : Aviation & Information Technology (2021.02.09)
+// Major : Aviation & Information Technology / Computer Science (2021.02.09)
 
 // Studying for a job in Android development
 
