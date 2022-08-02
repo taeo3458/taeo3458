@@ -18,11 +18,11 @@ IDE
 
 ABOUT ME
 --------
-// 극동대학교 항공IT융합학과(정보통신공학) 졸업 (2022.02.09)
+// Major : Aviation & Information Technology (2021.02.09)
 
-// 안드로이드 OS 개발을 위한 취업준비
+// Studying for a job in Android development
 
-// 여러 활동을 최대한 해보는 중..
 
 Hobby
+
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=PlayStation&logoColor=white"> <img src="https://img.shields.io/badge/Nintendo Switch-FF0000?style=for-the-badge&logo=Nintendo Switch&logoColor=white"> <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=Netflix&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white">
