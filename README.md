@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0095FF&height=200&section=header&text=Tae%20Young%20Oh%20&fontColor=ffffff&fontSize=80&fontAlignY=40)
 
 Tech Stack
-
+-----------
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/ios-800000?style=for-the-badge&logo=ios&logoColor=white"> 
 
 
